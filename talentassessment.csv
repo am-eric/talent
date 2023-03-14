@@ -1,0 +1,44 @@
+Name,sex,Grade,Percentage,Career Category,hobbie,talents,careerrecommendation
+John,M,E.E (Exceeds Exp),91%,Science engineering and technology,"Hiking, coding, playing video games",coding,science engineering and technology
+Sarah,F,A.E (Appr Exp),52%,Social sciences,"Reading, painting, watching documentaries",art,social sciences
+Michael,M,B.E (Below Exp),22%,Arts and sport science,"Playing sports, drawing, listening to music",sports,arts and sports science
+Jessica,F,M.E (Meet Exp),77%,Science engineering and technology,"Playing chess, hiking, programming",coding,science engineering and technology
+David,M,M.E (Meet Exp),73%,Social sciences,"Playing guitar, writing poetry, watching movies",poetry,social sciences
+Emily,F,A.E (Appr Exp),60%,Arts and sport science,"Dancing, playing soccer, practicing yoga",dancing,arts and sports science
+James,M,E.E (Exceeds Exp),83%,Science engineering and technology,"Playing video games, reading, hiking",playing video games,science engineering and technology
+Sophia,F,B.E (Below Exp),15%,Arts and sport science,"Drawing, listening to music, watching movies",drawing,arts and sports science
+Daniel,M,A.E (Appr Exp),57%,Social sciences,"Playing basketball, watching documentaries, reading",playing basketball,social sciences
+Isabella,F,M.E (Meet Exp),72%,Science engineering and technology,"Playing piano, hiking, reading",playing piano,science engineering and technology
+Ethan,M,E.E (Exceeds Exp),94%,Social sciences,"Playing guitar, writing music, reading",playing guitar,social sciences
+Olivia,F,A.E (Appr Exp),59%,Arts and sport science,"Painting, playing tennis, watching movies",Art,arts and sports science
+William,M,B.E (Below Exp),43%,Science engineering and technology,"Swimming, listening to music, hiking",swimming,not qualified
+Ava,F,M.E (Meet Exp),68%,Arts and sport science,"Dancing, playing volleyball, baking",baking,arts and sports science
+Benjamin,M,M.E (Meet Exp),75%,Science engineering and technology,"Playing soccer, reading, hiking",playing soccer,science engineering and technology
+Mia,F,A.E (Appr Exp),62%,Social sciences,"Painting, playing guitar, watching documentaries",art,social sciences
+Alexander,M,E.E (Exceeds Exp),86%,Arts and sport science,"Playing basketball, watching movies, playing video games",playing basketball,arts and sports science
+Charlotte,F,B.E (Below Exp),37%,Science engineering and technology,"Listening to music, drawing, reading",drawing,not qualified
+Jacob,M,M.E (Meet Exp),78%,Social sciences,"Playing soccer, watching documentaries, reading",playing soccer,social sciences
+Amelia,F,A.E (Appr Exp),53%,Arts and sport science,"Playing piano, painting, practicing yoga",art,arts and sports science
+Noah,M,E.E (Exceeds Exp),90%,Science engineering and technology,"Playing guitar, programming, reading",coding,science engineering and technology
+Harper,F,A.E (Appr Exp),58%,Social sciences,"Playing volleyball, listening to music, watching documentaries",playing volleyball,social sciences
+Ryan,M,B.E (Below Exp),26%,Arts and sport science,"Playing video games, skating, listening to music",skating,arts and sports science
+Evelyn,F,M.E (Meet Exp),70%,Science engineering and technology,"Hiking, coding, playing video games",coding,science engineering and technology
+Lucas,M,M.E (Meet Exp),71%,Social sciences,"Reading, painting, watching documentaries",painting,social sciences
+Abigail,F,A.E (Appr Exp),55%,Arts and sport science,"Playing sports, drawing, listening to music",drawing,arts and sports science
+Ethan,M,E.E (Exceeds Exp),88%,Science engineering and technology,"Playing chess, hiking, programming",playing chess,science engineering and technology
+Grace,F,B.E (Below Exp),47%,Social sciences,"Playing guitar, writing poetry, watching movies",poetry,not qualified
+Logan,M,M.E (Meet Exp),79%,Arts and sport science,"Dancing, playing soccer, practicing yoga",dancing,arts and sports science
+Chloe,F,A.E (Appr Exp),61%,Science engineering and technology,"Playing video games, reading, hiking",playing video games,science engineering and technology
+Samuel,M,E.E (Exceeds Exp),82%,Social sciences,"Drawing, listening to music, watching movies",drawing,social sciences
+Zoey,F,A.E (Appr Exp),54%,Arts and sport science,"Playing basketball, watching documentaries, reading",playing basketball,arts and sports science
+Jackson,M,B.E (Below Exp),31%,Science engineering and technology,"Playing piano, hiking, reading",playing piano,not qualified
+Madison,F,M.E (Meet Exp),74%,Social sciences,"Playing guitar, writing music, reading",music,social sciences
+Aiden,M,M.E (Meet Exp),76%,Arts and sport science,"Painting, playing tennis, watching movies",painting,arts and sports science
+Lillian,F,A.E (Appr Exp),63%,Science engineering and technology,"Playing video games, listening to music, hiking",playing video games,science engineering and technology
+Jayden,M,E.E (Exceeds Exp),96%,Social sciences,"Dancing, playing volleyball, baking",baking,social sciences
+Natalie,F,B.E (Below Exp),45%,Arts and sport science,"Playing guitar, reading, hiking",playing guitar,arts and sports science
+Gabriel,M,M.E (Meet Exp),80%,Science engineering and technology,"Playing guitar, programming, reading",coding,science engineering and technology
+Elizabeth,F,A.E (Appr Exp),51%,Social sciences,"Playing volleyball, listening to music, watching documentaries",playing volleyball,social sciences
+Caleb,M,E.E (Exceeds Exp) 87% Arts and sport science,87%,Arts and sport science,"swimming, playing football, poetry",poetry,arts and sports science
+Victoria,F,A.E (Appr Exp),56%,Science engineering and technology,"Swimming, coding, playing table tennis",coding,science engineering and technology
+Isaac,M,B.E (Below Exp),39%,Social sciences,"Playing piano, painting, practicing yoga",painting,not qualified
